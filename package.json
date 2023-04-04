@@ -1,0 +1,19 @@
+{
+  "name": "relatedresults",
+  "version": "1.0.0",
+  "description": "gets related results of a google search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fluff"
+  ],
+  "author": "Onii",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.8.3",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
